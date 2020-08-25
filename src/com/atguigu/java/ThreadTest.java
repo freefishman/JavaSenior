@@ -35,6 +35,7 @@ public class ThreadTest {
         Mythread t1 = new Mythread("线程1");
         //4.通过此对象调用start():①启动当前线程 ②调用当前线程的run()方法
         t1.start();
+
         //问题一：我们不能通过直接调用run()的方式启动线程
         //t.run();
 
