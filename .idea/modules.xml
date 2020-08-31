@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/D01/D01.iml" filepath="$PROJECT_DIR$/D01/D01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D02/D02.iml" filepath="$PROJECT_DIR$/D02/D02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D03/D03.iml" filepath="$PROJECT_DIR$/D03/D03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D04/D04.iml" filepath="$PROJECT_DIR$/D04/D04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D05/D05.iml" filepath="$PROJECT_DIR$/D05/D05.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
     </modules>
   </component>
