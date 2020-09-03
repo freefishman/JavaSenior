@@ -23,11 +23,14 @@ public class CollectionTest {
         Collection coll = new ArrayList();
         coll.add(123);
         coll.add(456);
+        coll.add(456);
+        coll.add(456);
         coll.add(new String("Tom"));
         coll.add(false);
 //        Person p = new Person("jerry", 20);
 //        coll.add(p);
         coll.add(new Person("jerry", 20));
+        coll.forEach(System.out::println);
 
         //contains():判断当前集合中是否包含obj
         //我们在判断时会调用obj对象所在类的equals()。
